@@ -1,0 +1,247 @@
+html, body{ 
+    height: 100%; 
+} 
+      
+body{ 
+    margin: 0px; 
+    padding: 0px; 
+    background:white; 
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family:none; 
+    font-size: 13pt; 
+} 
+          
+ #border h2{ 
+    margin: 100; 
+    padding: 100; 
+    color:pink; 
+    font-family: 'Cinzel', serif;
+} 
+.break {
+    text-decoration-line:underline; 
+    color:purple;
+}    
+p, ol, ul{ 
+    margin-top: 110; 
+} 
+  
+p { 
+    line-height: 180%; 
+}
+  
+.contact ul{ 
+    padding:1px; 
+    list-style:decimal; 
+    display:block;
+
+} 
+      
+.container{     
+    /* Set width of container to  
+        1200px and align center */
+    margin: 0px auto; 
+    width: 1200px; 
+} 
+
+header{ 
+    
+    overflow: hidden; 
+}
+
+#header-image-menu{ 
+    top: 10px; 
+    position: relative; 
+} 
+  
+#header-image-menu img{ 
+    width: 100%; 
+    margin: none; 
+    padding: none; 
+} 
+  
+#border { 
+    position:relative; 
+    top:0%; 
+    left: 0%; 
+    font-family: 'Algerian'; 
+    color: orange; 
+    transform: none; 
+    font-size: 26pt;
+    text-align: center; 
+} 
+top-header{ 
+        
+    text-align: center; 
+    height:200px; 
+} 
+#logo{ 
+    float: left; 
+    padding: none; 
+    margin: none; 
+    height: 100px; 
+    width: 40%; 
+} 
+
+ #logo img{ 
+    width: 35%; 
+    float: left; 
+    padding: 1px 20px; 
+}    
+
+ul{
+    float: left; 
+    width: 50%; 
+    height: 100%; 
+    margin: none; 
+} 
+.copyright ul{ 
+    text-align : center; 
+    float: right; 
+    margin: none; 
+    background:white; 
+} 
+
+ ul{ 
+    text-align : center; 
+    float: right; 
+    margin: none; 
+    background:aqua; 
+    cursor:pointer;
+    font-size: 10pt;
+} 
+ 
+ .ul hover{
+     background-color:black; 
+    color:lightyellow; 
+ }   
+li{ 
+    display:inline-block; 
+    padding: none; 
+    margin: none; 
+} 
+    
+li a,li span{  
+    padding: 0em 1em; 
+    text-decoration:none; 
+    font-weight: 600; 
+    text-transform:uppercase; 
+    line-height: 60px; 
+} 
+li a{ 
+        
+    color:black; 
+} 
+    
+ li: a, li span{ 
+    background:blue; 
+    color: blue;  
+    text-decoration:none; 
+} 
+#HELLO 
+{    overflow: hidden; 
+    width: 1000px; 
+    margin: 0px auto;
+    color:black; 
+} 
+          
+h1{ 
+    margin-top: 0px; 
+    padding: 2px; 
+    text-align: center; 
+    color:black;
+} 
+  
+#HELLO p{ 
+    margin-bottom: 40px; 
+    text-align: center; 
+    color:black;
+} 
+#section-2{ 
+    overflow: hidden; 
+    margin-top: 5em; 
+    padding-top: 1em; 
+    border-top: 1px solid rgba(0, 0, 0, 0.2); 
+    text-align: center; 
+} 
+.row #column1, 
+.row #column2, 
+.row #column3{ 
+        float:left; 
+        width:25%%; 
+        padding: 20px 20px 20px 20px; 
+        text-align:center; 
+} 
+.column-title h2{ 
+    margin: 1em 0em; 
+    font-size: 1.6em; 
+    font-weight: 700; 
+} 
+.button { 
+    text-decoration: none; 
+    text-align:left; 
+    display:inline-block; 
+    font-size:13px;  
+    color:navy;  
+   background:white;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s; 
+    cursor:pointer; 
+} 
+    
+.button:hover { 
+    background-color:black; 
+    color:lightyellow; 
+} 
+.company-details{ 
+    overflow: hidden; 
+    padding: 10px 10px; 
+    background:lightpink; 
+    text-align: center; 
+    margin-top: 10px; 
+} 
+#footer #col1{ 
+    float: left; 
+    width: 320px; 
+    padding: 0px 40px 0px 40px; 
+} 
+#footer #col2{ 
+    float: left; 
+    width: 320px; 
+    padding: 0px 40px 0px 40px; 
+} 
+
+#footer #col3{ 
+    float: left; 
+    width: 320px; 
+    padding: 0px 40px 0px 40px; 
+} 
+#footer #icon{ 
+    display:inline-block; 
+    margin-bottom: 1em; 
+    font-size: 1em; 
+} 
+.copyright 
+{ 
+    overflow: hidden; 
+    padding: 2em 0em; 
+    border-top: 15px; 
+    text-align: center; 
+    background:black; 
+} 
+.copyright p 
+{ 
+    letter-spacing: 1px; 
+    font-size: 0.90em; 
+    font color:purple; 
+    font-family:none;
+} 
+h6 {
+    color:red;
+    font-family:cursive;
+    text-align: right;
+    
+}
+.highlight{
+    color:#bd9139;
+}
